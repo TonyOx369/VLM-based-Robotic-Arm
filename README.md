@@ -1,1 +1,1 @@
-# VLM-based-Robotic-Arm
+# Visual Language Model based Robotic Arm
