@@ -19,7 +19,7 @@ INTERLOCKING_OFFSET = 0.001  # Small offset for stacking Legos
 class OpenAIRobotAgent:
     def __init__(self):
         # Initialize OpenAI client
-        api_key = "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"
+        api_key = "Your API key"
         if not api_key:
             raise ValueError("Please set OPENAI_API_KEY environment variable")
         self.client = OpenAI(api_key=api_key)
